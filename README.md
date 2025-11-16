@@ -1,7 +1,7 @@
 ### Opa, tudo bem? Me chamo Rodrigo Queiroz👋
 
-- 4 Anos De Experiencia Na Área De Testes 🗓️
-- UniFtc | Sistema De Informação 📚
+- 4 Anos De Experiencia Na Área De Testes e Automações🗓️
+- Estácio | Sistema De Informação 📚
 - 24 anos 🎂
 - QA Software Engineer | @<a href="https://www.instagram.com/docktech_/">Dock Tech</a> 🖥️
 - Futuro Full Stack 🚀
