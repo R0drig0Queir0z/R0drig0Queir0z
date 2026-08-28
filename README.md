@@ -7,7 +7,7 @@
 - Futuro Full Stack 🚀
 
 
-[![Rodrigo Queiroz's GitHub stats](https://github-readme-stats.vercel.app/api?username=R0drig0Queiro0z)](https://github.com/R0drig0Queiro0z/github-readme-stats)
+[![Meus Status no GitHub](https://github-readme-stats-private-rho.vercel.app/api?username=R0drig0Queir0z&count_private=true&show_icons=true&theme=dark)](https://github.com/R0drig0Queir0z)
 
 ##
 
