@@ -7,7 +7,7 @@
 - Futuro Full Stack 🚀
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R0drig0Queiro0z)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R0drig0Queiro0z)](https://github.com/R0drig0Queiro0z/github-readme-stats)
 
 ##
 
